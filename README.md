@@ -3,7 +3,7 @@
 
 
 ## Configurations
--   ✨ [prettier.config.cj][prettier] — Code formatting.
+-   ✨ [prettier.config][prettier] — Code formatting.
 ## Usage
 
 For manual setup of each file, follow the instructions below.
