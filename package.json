@@ -1,0 +1,25 @@
+{
+  "name": "@risingsquad/configs",
+  "version": "1.0.0",
+  "description": "Project configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RisingSquad/configs.git"
+  },
+  "keywords": [
+    "config",
+    "format",
+    "eslint",
+    "prettier"
+  ],
+  "author": "RisingSquad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RisingSquad/configs/issues"
+  },
+  "homepage": "https://github.com/RisingSquad/configs#readme"
+}
